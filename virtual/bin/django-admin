@@ -1,4 +1,4 @@
-#!/home/sonia/The-Moringa-Tribune/virtual/bin/python
+#!/home/sonia/Documents/moringa-school-projects/The-Moringa-Tribune/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
